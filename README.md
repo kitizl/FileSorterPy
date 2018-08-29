@@ -14,3 +14,8 @@ NOTE : This works only if the filename format is like the following : `yyyymmdd-
 This was built for automating the process of organizing my video files for [my YouTube channel](www.youtube.com/ThePrimevalVoid). I realize this isn't the best script to do the job, but it works. Performance improvements might happen in the future when I find free time to update the script.
 
 This script might be useful to those who probably make their living on daily vlogs or editing daily vlogs, or have a large backlog of footage that needs to be edited into a single vlog.
+
+## TODO:
+
+- [ ] Add flags to select the directory that contains the files that need to be sorted
+- [ ] Add helptext
